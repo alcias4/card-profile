@@ -90,11 +90,11 @@ main {
   align-items: center;
 }
 
-.info-card strong {
+.info-card h1 {
   font-size: 20px;
 }
 
-.info-card strong span {
+.info-card h1 span {
   opacity: 0.5;
   font-weight: 400;
   margin-left: 5px;
